@@ -1,0 +1,11 @@
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\bin\Debug\netcoreapp2.1\AdvancedConsoleMenu.deps.json
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\bin\Debug\netcoreapp2.1\AdvancedConsoleMenu.runtimeconfig.json
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\bin\Debug\netcoreapp2.1\AdvancedConsoleMenu.runtimeconfig.dev.json
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\bin\Debug\netcoreapp2.1\AdvancedConsoleMenu.dll
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\bin\Debug\netcoreapp2.1\AdvancedConsoleMenu.pdb
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.csprojAssemblyReference.cache
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.AssemblyInfo.cs
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.dll
+C:\Users\dakot\Desktop\C#\AdvancedConsoleMenu\AdvancedConsoleMenu\obj\Debug\netcoreapp2.1\AdvancedConsoleMenu.pdb
